@@ -10,6 +10,12 @@ A tool for transforming raw YouTube video transcripts into clean, well-structure
 - Structural formatting
 - Key insights extraction
 
-## Getting Started
+## Development Setup
 
-Instructions for setup and usage coming soon.
+### Prerequisites
+- Python 3.8 or higher
+- Git
+
+### Installation
+
+1. Clone the repository
