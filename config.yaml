@@ -1,0 +1,23 @@
+# Configuration for Transcript Alchemist
+
+# API Settings (placeholders for future integration)
+api:
+  youtube_api_key: "" # To be set by user
+
+# Processing Options
+processing:
+  remove_timestamps: true
+  identify_speakers: true
+  consolidate_sentences: true
+  spellcheck: true
+
+# Output Settings
+output:
+  default_format: "markdown"
+  add_headers: true
+  paragraph_min_sentences: 3
+
+# Translation Settings
+translation:
+  default_language: "en"
+  preserve_formatting: true
